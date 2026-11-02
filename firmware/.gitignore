@@ -1,0 +1,22 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# IDE / 系统
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# 编译产物
+*.bin
+*.elf
+*.map
+
+# 本地构建产物（tools/build.ps1）
+.build/
+
+# Arduino IDE 导出（tools/build.ps1 -Export 生成）
+arduino/
