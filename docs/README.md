@@ -1,3 +1,5 @@
+> 📦 GitHub: <https://github.com/KingsChaos/esp32cam-clock>
+
 # ESP32-CAM 桌面时钟
 
 > 固件版本 **1.0.0-esp32cam** ｜ 作者 **shane** ｜ 完成日期 2026-11-02
